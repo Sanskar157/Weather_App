@@ -1,6 +1,6 @@
 # weather_app
-Bloc Statemanagement and OpenWeather api integration 
-A new Flutter project.
+Bloc Statemanagement and OpenWeather api integration.
+
 
 ## Getting Started
 
